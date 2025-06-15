@@ -69,6 +69,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/security-team/bug-hunter-pro.git
+unzip bug-hunter-pro.zip
 cd bug-hunter-pro
 
 # Install dependencies
