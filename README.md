@@ -68,7 +68,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/security-team/bug-hunter-pro.git
+git clone https://github.com/maheshapurvaitsolutions/bug-hunter-pro.git
 unzip bug-hunter-pro.zip
 cd bug-hunter-pro
 
